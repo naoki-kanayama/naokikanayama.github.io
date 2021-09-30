@@ -145,6 +145,8 @@ img {
   justify-content: center;
   height: 85vh;
   text-align: center;
+  background-image: url(fuji.png);
+  background-size: cover;
 }
 
 .mv-container {
