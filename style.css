@@ -13,7 +13,7 @@ a {
 
 img {
   max-width: 100%;
-  height: auto;
+  height: 84%;
   vertical-align: bottom;
   border-style: none;
 }
@@ -264,7 +264,7 @@ img {
   border-radius: 50%;
 }
 .profile-img img {
-  border-radius: 50%;
+  border-radius: 100%;
 }
 .profile-body {
   flex: 1;
